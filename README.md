@@ -2,6 +2,8 @@
 
 ![carmarlon](https://github.com/marlonrt/carmarlon/assets/119014294/2e76a218-73a1-4a87-9f81-00a929a8f094)
 
+[Live App](https://carmarlon.vercel.app/)
+
 ## Utilized Technologies
 
 - React
