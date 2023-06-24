@@ -1,18 +1,20 @@
-# Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
+# CarMarlon
 
-## Introduction
-The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
- 
-Alongside building this application, you'll also learn how to:
-- Use Next.js 13 App Router and Server Side Rendering
-- Implement Advanced Search Functionality
-- Create Filtering Capabilities
-- Optimize Metadata and SEO
-- Create custom filter, combobox, and modal elements
-- Maintain a well-organized file and folder structure.
-- Embrace the principles of writing clean code.
+![carmarlon](https://github.com/marlonrt/carmarlon/assets/119014294/2e76a218-73a1-4a87-9f81-00a929a8f094)
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Utilized Technologies
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Description
+
+The project is a car rental website that consumes an API to display information about available cars, allowing users to make reservations and perform other actions related to car rentals.
+
+## Key Features
+
+- Listing of available cars for rental, including details such as model, brand, year, etc.
+- Car search functionality using filters like brand, model, year, etc.
+- Car detail page, displaying additional information and images of the vehicle.
